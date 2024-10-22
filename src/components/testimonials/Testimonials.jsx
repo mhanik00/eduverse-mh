@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import './Testimonials.css';
+import './testimonials.css';
 import next_icon from '../../assets/images/next-icon.png'
 import back_icon from '../../assets/images/back-icon.png'
 import user_1 from '../../assets/images/user-1.png'
